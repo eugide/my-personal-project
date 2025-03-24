@@ -16,6 +16,7 @@ function Home() {
       { name: "Express", level: 75 },
       { name: "MongoDB", level: 70 },
       { name: "API Development", level: 60 },
+      { name: "Node.js", level: 45 },
     ],
     other: [
       { name: "Git/GitHub", level: 75 },
