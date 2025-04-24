@@ -10,19 +10,32 @@ function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Ndungutse Eugide</h3>
             <p className="text-gray-300 mb-4">
-              Software Developer passionate about creating impactful web solutions that help businesses grow and succeed.
+              Software Developer passionate about creating impactful web
+              solutions that help businesses grow and succeed.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">
+              <a
+                href="#"
+                className="text-gray-300 hover:text-blue-400 transition-colors"
+              >
                 <Github size={20} />
               </a>
-              <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">
+              <a
+                href="#"
+                className="text-gray-300 hover:text-blue-400 transition-colors"
+              >
                 <Linkedin size={20} />
               </a>
-              <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">
+              <a
+                href="#"
+                className="text-gray-300 hover:text-blue-400 transition-colors"
+              >
                 <Facebook size={20} />
               </a>
-              <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">
+              <a
+                href="#"
+                className="text-gray-300 hover:text-blue-400 transition-colors"
+              >
                 <Mail size={20} />
               </a>
             </div>
@@ -32,16 +45,36 @@ function Footer() {
             <h3 className="text-xl font-bold mb-4">Quick Links</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">Home</a>
+                <a
+                  href="#"
+                  className="text-gray-300 hover:text-blue-400 transition-colors"
+                >
+                  Home
+                </a>
               </li>
               <li>
-                <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">About Me</a>
+                <a
+                  href="#"
+                  className="text-gray-300 hover:text-blue-400 transition-colors"
+                >
+                  About Me
+                </a>
               </li>
               <li>
-                <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">Projects</a>
+                <a
+                  href="#"
+                  className="text-gray-300 hover:text-blue-400 transition-colors"
+                >
+                  Projects
+                </a>
               </li>
               <li>
-                <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">Contact</a>
+                <a
+                  href="#"
+                  className="text-gray-300 hover:text-blue-400 transition-colors"
+                >
+                  Contact
+                </a>
               </li>
             </ul>
           </div>
@@ -50,13 +83,13 @@ function Footer() {
             <h3 className="text-xl font-bold mb-4">Contact Info</h3>
             <div className="space-y-2">
               <p className="text-gray-300">
-                <span className="font-semibold">Email:</span> eugide@example.com
+                <span className="font-semibold">Email:</span> eugidendungutse770@.com
               </p>
               <p className="text-gray-300">
-                <span className="font-semibold">Phone:</span> +250 788 123 456
+                <span className="font-semibold">Phone:</span> +250 726 150 601
               </p>
               <p className="text-gray-300">
-                <span className="font-semibold">Location:</span> Kigali, Rwanda
+                <span className="font-semibold">Location:</span> Gatsibo Nyabiheke Camp
               </p>
             </div>
           </div>
